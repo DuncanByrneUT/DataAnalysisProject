@@ -24,3 +24,4 @@ python index.py
 This script will print outputs to the console and generate visualizations that will appear in new windows or be saved depending on your settings. The cleaned dataset will also be saved as a new CSV file.
 
 
+![Screenshot 2025-01-06 at 2 44 12 PM](https://github.com/user-attachments/assets/5e94b075-3b20-4328-b81c-ac9c041ce59d)
