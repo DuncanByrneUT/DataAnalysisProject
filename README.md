@@ -12,7 +12,7 @@ Run the script using python index.py
 1 Prerequisites:
 Make sure you have Python installed on your system.
 Install the required libraries if you haven't already:
-pip install pandas matplotlib seaborn
+pip install pandas matplotlib, seaborn
 
 2 Script Execution:
 Navigate to the directory containing your script in the command line or terminal:
